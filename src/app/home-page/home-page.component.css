@@ -1,0 +1,19 @@
+body {
+    height: 900px;
+    background-color: #f6edce;
+
+}
+
+.navbar {
+    background-color: #3a170d !important;
+}
+
+.forg {
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
